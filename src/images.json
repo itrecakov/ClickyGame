@@ -4,55 +4,55 @@
     "name": "1",
     "clicked": false,
     "image":
-      "https://github.com/itrecakov/clickygame/blob/master/images/one.png?raw=true"
+      "images/1.png"
   },
   {
     "id": 2,
     "name": "2",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0004/5837/brand.gif?itok=mmVEK8Pn"
+      "images/2.png"
   },
   {
     "id": 3,
     "name": "3",
     "clicked": false,
     "image":
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMonica_Geller&psig=AOvVaw088MFy9xzHZYl0zx6-s9-d&ust=1594259872973000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDPqv3GvOoCFQAAAAAdAAAAABAN"
+      "images/3.png"
   },
   {
     "id": 4,
     "name": "4",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112015/untitled-1_220.png?itok=KgNk9SlS"
+      "images/4.png"
   },
   {
     "id": 5,
     "name": "5",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0007/1719/brand.gif?itok=BX3hEsUN"
+      "images/5.png"
   },
   {
     "id": 6,
     "name": "6",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0025/4205/brand.gif?itok=kvDnZka_"
+      "images/6.png"
   },
   {
     "id": 7,
     "name": "7",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032012/beats_logo.jpg?itok=n0QUXCP8"
+      "images/7.png"
   },
   {
     "id": 8,
     "name": "8",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0015/7847/brand.gif?itok=LsN3DWaP"
+      "images/8.png"
   }
 ]
